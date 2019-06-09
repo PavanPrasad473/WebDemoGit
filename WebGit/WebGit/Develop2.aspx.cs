@@ -12,6 +12,7 @@ namespace WebGit
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("This is develop2");
+            Response.Write("This is from release branch bug fix");
         }
     }
 }
