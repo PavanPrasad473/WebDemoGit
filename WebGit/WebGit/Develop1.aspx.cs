@@ -12,8 +12,6 @@ namespace WebGit
         protected void Page_Load(object sender, EventArgs e)
         {
             Response.Write("This is develop1");
-            Response.Write("This is Live Fix");
-            Response.Write("This is Test Fix");
         }
     }
 }
